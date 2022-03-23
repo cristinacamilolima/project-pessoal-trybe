@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
 </div>
-<
-  <img align="right" alt= "mascote-github" height= "300em" src="https://octodex.github.com/images/motherhubbertocat.png"/>
+
+  <img align="right" alt= "mascote-github" height= "250em" src="https://octodex.github.com/images/motherhubbertocat.png"/>
 
 
 <div style="display: inline_block"><br>
